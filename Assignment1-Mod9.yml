@@ -1,0 +1,7 @@
+name: "Airport east CAN"
+navbar:
+  title: "Airport CAN"
+  left:
+    - text: "Map"
+      href: index.html
+    
